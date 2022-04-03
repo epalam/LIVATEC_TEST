@@ -1,0 +1,13 @@
+com\livatec\webshop\BasePriceComponent.class
+com\livatec\webshop\ConfigurationContextImpl.class
+com\livatec\webshop\PriceComponent.class
+com\livatec\webshop\VatRate.class
+com\livatec\webshop\CommandLineArgumentException.class
+com\livatec\webshop\ConfigurationContextFactory.class
+com\livatec\webshop\ConfigurationContext.class
+com\livatec\webshop\Main.class
+com\livatec\webshop\CommandLineArgumentsReader.class
+com\livatec\sandbox\Helper.class
+com\livatec\sandbox\App.class
+com\livatec\webshop\ArgumentsReader.class
+com\livatec\webshop\CurrencyRate.class
